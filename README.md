@@ -1,2 +1,2 @@
 # hello-word
-Just another repository
+Apprenti codeur à LaPlateforme_marseille
